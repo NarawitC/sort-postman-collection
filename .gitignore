@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
